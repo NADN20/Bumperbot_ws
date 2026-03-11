@@ -1,7 +1,6 @@
 
-.vscode/
 build/
 install/
 log/
 *.pyc
-*.swp
+*.swp.vscode/
