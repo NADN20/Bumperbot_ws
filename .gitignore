@@ -1,5 +1,6 @@
 
 .vscode/
+.codex
 build/
 install/
 log/
